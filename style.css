@@ -10,4 +10,7 @@ canvas {
   display: block; 
   height: 1000; 
   border: none;
+  width: 30%;
+  margin: 0 auto;
 }
+
